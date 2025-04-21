@@ -11,7 +11,7 @@ st.title(":rainbow[SND Claims YTD'2024-25']")
 st.subheader(':red[You can find your WD_Claims below]', divider='rainbow')
 
 # Load Excel data
-file_path = r'C:\Users\Pratima Chauhan\Desktop\SSC_and_Atta_Damage_Claims.xlsx'
+file_path = 'SSC_and_Atta_Damage_Claims.xlsx'
 data = pd.read_excel(file_path)
 
 # Clean column names
