@@ -1,7 +1,7 @@
-## 📊 SND Claims YTD (2024-25)
+## 📊 SSC&Damage submission details May to Jan'25 
 
 ### 🔍 Overview
-**SND Claims YTD (2024-25)** ek Streamlit-based web application hai jo WD (Warehouse Distributor) codes ke basis par claims data ko visualize karta ha. Yeh application users ko unke claims ka status dekhne, aur 'Not Received' claims ke liye details submit karne ki suvidha deta ha.
+**SSC&Damage submission details May to Jan'25 ** ek Streamlit-based web application hai jo WD (Warehouse Distributor) codes ke basis par claims data ko visualize karta ha. Yeh application users ko unke claims ka status dekhne, aur 'Not Received' claims ke liye details submit karne ki suvidha deta ha.
 
 ### 🚀 Features
 - WD Code ke basis par claims data filter kana- 'Received', 'Not Received', aur 'All' tabs ke through data visualizaton- 'Not Received' claims ke liye actual claim amount aur supporting documents submit kana- Submitted data ko local Excel file mein update karna (Note: Streamlit Cloud par file writing operations limited hote han)
