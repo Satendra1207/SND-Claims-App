@@ -31,7 +31,7 @@ if WD_Code:
     if not filtered_data.empty:
         st.success("✅ Data Found Successfully")
 
-        tab1, tab2, tab3 = st.tabs(["Received", "Not Received", "All"])
+        tab1, tab2, tab3 = st.tabs(["All","Received", "Not Received"])
 
         with tab1:
             received_data = filtered_data[filtered_data['Status'].str.strip() == "Received"]
