@@ -3,7 +3,7 @@ import streamlit as st
 from pathlib import Path
 
 st.set_page_config(
-    page_title='SSC & Damage submission details May to Jan'25 ',
+    page_title="SSC & Damage submission details May to Jan'25",
     page_icon='📊'
 )
 
