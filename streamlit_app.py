@@ -3,11 +3,11 @@ import streamlit as st
 from pathlib import Path
 
 st.set_page_config(
-    page_title='SND Claims YTD (2024-25)',
+    page_title='SSC&Damage submission details May to Jan'25 ',
     page_icon='📊'
 )
 
-st.title(":rainbow[SND Claims YTD'2024-25']")
+st.title(":rainbow[SSC&Damage submission details May to Jan'25 ]")
 st.subheader(':red[You can find your WD_Claims below]', divider='rainbow')
 
 # ✅ Load Excel file from project root (same folder as this script)
