@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon='📊'
 )
 
-st.title(":rainbow[SSC & Damage submission details May to Jan'25 ]")
+st.title(":rainbow[SSC & Damage Submission Details May to Jan'25 ]")
 st.subheader(':red[You can find your WD_Claims below]', divider='rainbow')
 
 # ✅ Load Excel file from project root (same folder as this script)
